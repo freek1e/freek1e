@@ -26,8 +26,8 @@
 
 ### 🧠 About Me
 - Android custom ROM tinkerer
-- Linux user (CachyOS + Wayland enjoyer)
-- Kernel & vendor curiosity
+- Linux user for 6 years (Cachyos + KDE)
+- Open source supporter
 - I'm using my local machine :P
 
 ---
@@ -36,8 +36,7 @@
 - Android build system (AOSP / ROM work)
 - Device-specific optimization (duchamp)
 - Vendor & device tree experiments
-- Performance tuning & system tweaks
-
+- Helping the community
 
 ---
 
@@ -51,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Aosp-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
