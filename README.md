@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f8bbd0&height=180&section=header&text=Hi,%20I'm%20Akın%20👋&fontSize=45&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e0e0e0&height=180&section=header&text=Hi,%20I'm%20akrap%20👋&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 - Android custom ROM tinkerer
 - Linux user (CachyOS + Wayland enjoyer)
 - Kernel & vendor curiosity
-- I break systems just to understand them.
+- I'm using my local machine :P
 
 ---
 
