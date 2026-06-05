@@ -1,8 +1,9 @@
-<!-- HERO -->
-<h1 align="center">Hi, I'm Akın 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi,%20I'm%20Akın%20👋&fontSize=45&animation=fadeIn&fontColor=ffffff" />
+</p>
 
 <p align="center">
-  <b>Android • Linux • Custom ROMs • System Tinkering</b>
+  <b>Android Systems • Custom ROM Developer • Linux Specialist</b>
 </p>
 
 <p align="center">
@@ -17,7 +18,6 @@
 
 ---
 
-<!-- ABOUT + FOCUS -->
 <table align="center">
   <tr>
     <td valign="top" width="50%">
@@ -25,7 +25,7 @@
 ### 🧠 About Me
 - Android custom ROM tinkerer  
 - Linux user, CachyOS + Wayland enjoyer  
-- Device tree, vendor, and kernel curiosity  
+- Device tree / vendor / kernel curiosity  
 - I break systems just to understand them  
 
     </td>
@@ -33,14 +33,13 @@
 
 ### ⚙️ Current Focus
 - Android build system and AOSP work  
-- Device-specific optimizations  
-- Vendor and device tree experiments  
-- Performance tuning and system tweaks  
+- Device-specific optimization (duchamp)  
+- Vendor & device tree experiments  
+- Performance tuning & system tweaks  
 
     </td>
   </tr>
 </table>
-
 
 
 ---
