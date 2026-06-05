@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-ROM%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-CachyOS-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-System%20Optimization-ff6b6b?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Operating%20Systems-ff6b6b?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 <p align="center">
