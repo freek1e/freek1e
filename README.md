@@ -16,12 +16,6 @@
   <img src="https://img.shields.io/badge/Focus-Operating%20Systems-ff6b6b?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://t.me/akrapoglu"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:akrpakin34@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-
 ---
 
 ### 🧠 About Me
@@ -57,6 +51,13 @@
   <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
+<br></br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:1a1a1a&height=120&section=footer" />
+  <a href="https://t.me/akrapoglu"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:akrpakin34@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:1a1a1a&height=110&section=footer" />
 </p>
