@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi,%20I'm%20Akın%20👋&fontSize=45&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f8bbd0&height=180&section=header&text=Hi,%20I'm%20Akın%20👋&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -16,62 +16,47 @@
   <img src="https://img.shields.io/badge/Focus-System%20Optimization-ff6b6b?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <a href="https://t.me/akrapoglu"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:akrpakin34@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
+
+---
 
 ### 🧠 About Me
-- Android custom ROM tinkerer  
-- Linux user, CachyOS + Wayland enjoyer  
-- Device tree / vendor / kernel curiosity  
-- I break systems just to understand them  
-
-    </td>
-    <td valign="top" width="50%">
-
-### ⚙️ Current Focus
-- Android build system and AOSP work  
-- Device-specific optimization (duchamp)  
-- Vendor & device tree experiments  
-- Performance tuning & system tweaks  
-
-    </td>
-  </tr>
-</table>
-
+- Android custom ROM tinkerer
+- Linux user (CachyOS + Wayland enjoyer)
+- Kernel & vendor curiosity
+- I break systems just to understand them.
 
 ---
 
-### 🚀 Tech Stack
+### ⚙️ Current Focus
+- Android build system (AOSP / ROM work)
+- Device-specific optimization (duchamp)
+- Vendor & device tree experiments
+- Performance tuning & system tweaks
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-</p>
 
 ---
 
 ### 📦 Projects / Experiments
-
-<table align="center">
-  <tr>
-    <td>
 
 - 📱 Custom ROM experiments  
 - 🧩 Device tree modifications  
 - ⚙️ Kernel and vendor tweaks  
 - 🐧 Linux desktop setups  
 
-    </td>
-  </tr>
-</table>
-
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Aosp-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=120&section=footer" />
