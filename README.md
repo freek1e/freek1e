@@ -39,9 +39,8 @@
 
 ### 📦 Projects / Experiments
 
-- 📱 Custom ROM experiments  
-- 🧩 Device tree modifications  
-- ⚙️ Kernel and vendor tweaks  
+- 📱 Breaking Android until it behaves 
+- 🧩 Exploring OS restrictions and system behavior in modified environments
 - 🐧 Linux desktop setups  
 
 ---
