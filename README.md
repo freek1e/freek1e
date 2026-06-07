@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Focus-Operating%20Systems-ff6b6b?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=freek1e&label=Profile%20views&color=0e75b6&style=flat" alt="freek1e" /> </p>
+
 ---
 
 ### 🧠 About Me
