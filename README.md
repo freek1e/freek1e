@@ -29,9 +29,10 @@
 ---
 
 ### ⚙️ Current Focus
-- Android build system (AOSP / ROM work)
+- Building customized AOSP projects
 - Device-specific optimization (duchamp)
-- Vendor & device tree experiments
+- Developing useful open-source tools
+- Hackintosh / All kinds of root access
 - Helping the community
 
 ---
