@@ -11,17 +11,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-ROM%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-CachyOS-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Operating%20Systems-ff6b6b?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Mobile-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/macOS-Sequoia-B8A4FF?style=for-the-badge&logo=apple&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Linux-CachyOS-2BB8B3?style=for-the-badge&logo=linux&logoColor=white" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=freek1e&label=Profile%20views&color=0e75b6&style=flat" alt="freek1e" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=freek1e&label=Profile%20views&color=24292f&style=flat" alt="freek1e" /> </p>
 
 ---
 
 ### 🧠 About Me
-- Android custom ROM tinkerer
+- Android custom ROM developer
 - Linux user for 6 years (Cachyos + KDE)
 - Open source supporter
 - I'm using my local machine :P
@@ -40,7 +41,6 @@
 ### 📦 Projects / Experiments
 
 - 📱 Breaking Android until it behaves 
-- 🧩 Exploring OS restrictions and system behavior in modified environments
 - 🐧 Linux desktop setups  
 
 ---
