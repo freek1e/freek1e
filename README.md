@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android for-Mobile-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/working-macOS-B8A4FF?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS for-working-B8A4FF?style=for-the-badge&logo=apple&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Daily-Linux-2BB8B3?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux for-Gaming-2BB8B3?style=for-the-badge&logo=linux&logoColor=white" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=freek1e&label=Profile%20views&color=24292f&style=flat" alt="freek1e" /> </p>
 
