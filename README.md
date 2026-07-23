@@ -41,7 +41,6 @@
 ### 📦 Projects / Experiments
 
 - 📱 Breaking Android until it behaves 
-- 🐧 Linux desktop setups  
 
 ---
 
